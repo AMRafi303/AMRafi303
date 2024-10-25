@@ -24,7 +24,7 @@ Skills: REACT / JavaScript / HTML / CSS / Bootstrap
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=AMRafi303) 
 
-![](https://komarev.com/ghpvc/?username=your-github-AMRafi303&color=green)
+![](https://komarev.com/ghpvc/?username=your-github-AMRafi303&color=brightgreen)
 
 
 
