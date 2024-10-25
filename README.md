@@ -1,5 +1,7 @@
 ![Web Developer](https://pbs.twimg.com/profile_banners/1796889471851626496/1729856702/600x200)
 
+![](https://komarev.com/ghpvc/?username=your-github-AMRafi303&color=brightgreen)
+
 ### Hi there 👋, I'm Abdul Matin Rafi
 #### Web Developer
 
@@ -24,7 +26,7 @@ Skills: REACT / JavaScript / HTML / CSS / Bootstrap
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=AMRafi303) 
 
-![](https://komarev.com/ghpvc/?username=your-github-AMRafi303&color=brightgreen)
+
 
 
 
