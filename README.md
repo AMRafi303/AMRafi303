@@ -4,7 +4,7 @@
 #### Web Developer
 
 
-I’m a Web developer passionate about making error-free websites. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Technologies I enjoy working with include React, JavaScript, HTML5, CSS3, Bootstrap as well.
+I’m a Web developer passionate about making error-free websites. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Technologies I enjoy working with include JavaScript as well.
 
 Skills: REACT / JavaScript / HTML / CSS / Bootstrap
 
