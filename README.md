@@ -24,8 +24,6 @@ Skills: REACT / JavaScript / HTML / CSS / Bootstrap
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/AMRafi303/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/AMRafi303)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=AMRafi303)  
 
 
