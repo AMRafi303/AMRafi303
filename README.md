@@ -1,4 +1,4 @@
-![Web Developer]([https://pbs.twimg.com/profile_banners/1796889471851626496/1729856702/600x200](https://media.licdn.com/dms/image/v2/D5616AQEcrJOs5h5WIQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729874972742?e=1735171200&v=beta&t=-ZSxhEUm0UzA5UR0Y8P1bgJGCR5gGEd6OkpPSPFC89o)
+![Web Developer]([https://pbs.twimg.com/profile_banners/1796889471851626496/1729856702/600x200])
 
 ### Hi there 👋, I'm Abdul Matin Rafi
 #### Web Developer
